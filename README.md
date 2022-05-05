@@ -2,7 +2,7 @@
 
 This is a fork from: https://gitlab.com/gitlab-org/gitlab-omniauth-openid-connect
 Why forking ? Because in the gem above, omniauth must be < 1.9. We use >= 2.0. It works nicely.
-We should use the original version as soon aos it becomes compatible with omniauth >= 2.0.
+We should use the original version as soon as it becomes compatible with omniauth >= 2.0.
 
 
 # OmniAuth::OpenIDConnect
